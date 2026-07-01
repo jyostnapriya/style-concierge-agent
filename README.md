@@ -52,6 +52,14 @@ graph TD
     HITL -->|rejected / feedback| OrchRun
 ```
 
+## Assets
+
+### Cover Page Banner
+![Style Concierge Cover Banner](assets/cover_page_banner.png)
+
+### Architecture Workflow Diagram
+![Style Concierge Workflow Diagram](assets/architecture_diagram.png)
+
 ## How to Run
 
 * **Interactive UI Test**:
