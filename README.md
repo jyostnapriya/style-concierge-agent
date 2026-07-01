@@ -147,3 +147,8 @@ graph TD
    ```
 
 ⚠️ NEVER push `.env` to GitHub. Your API key will be exposed publicly.
+
+## Demo Script
+
+The spoken narration script for presenting the Style Concierge Agent is available in [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt).
+
